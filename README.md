@@ -1,10 +1,10 @@
 <div style="position: relative; text-align: center; color: white; margin-bottom: 15px;">
-  <img src="assets/img/japan-tour-banner.jpg" alt="Sonia C" style="width: 80%; height: auto; align:center; border-radius: 5%;">
+  <img src="assets/img/japan-tour-banner.jpg" alt="Sonia C" style="width: 100%; height: auto; align:center; border-radius: 5%;">
   <h1 style="font-size: 3em; padding: 10px;">
     Sonia C.
   </h1>
 </div>
-<p style="text-align:center">
+<p align="center">
   ¡Bienvenida/o a mi perfil de GitHub! Soy desarrolladora con experiencia en <strong>programación backend y frontend</strong>, y además tengo el privilegio de ser <strong>profesora de Formación Profesional en Informática</strong>. Me apasiona compartir conocimientos y aprender constantemente en este mundo tan dinámico de la tecnología.
 </p>
 
