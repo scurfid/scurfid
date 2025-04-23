@@ -1,7 +1,7 @@
 <div style="position: relative; text-align: center; color: white; margin-bottom: 15px;">
   <img src="assets/img/japan-tour-banner-small.jpg" alt="Sonia C" style="width: 100%; height: auto; align:center; border-radius: 5%;">
 </div>
-<h1 style="font-size: 3em; padding: 10px;">
+<h1 align="center" style="font-size: 3em; padding: 10px;">
     Sonia C.
 </h1>
 <p align="center">
