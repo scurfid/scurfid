@@ -1,6 +1,6 @@
 <div style="position: relative; text-align: center; color: white; margin-bottom: 15px;">
-  <img src="assets/img/japan.jpg" alt="Sonia C" style="width: 100%; height: 150px; border-radius: 5%;">
-  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 3em; background-color: rgba(0, 0, 0, 0.5); padding: 10px; border-radius: 10px;">
+  <img src="assets/img/japan_banner.jpg" alt="Sonia C" style="width: 80%; height: auto; border-radius: 5%;">
+  <h1 style="font-size: 3em; padding: 10px;">
     Sonia C.
   </h1>
 </div>
