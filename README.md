@@ -1,5 +1,5 @@
 <div style="position: relative; text-align: center; color: white; margin-bottom: 15px;">
-  <img src="assets/img/japan_banner.jpg" alt="Sonia C" style="width: 80%; height: auto; border-radius: 5%;">
+  <img src="assets/img/japan-tour-banner.jpg" alt="Sonia C" style="width: 80%; height: auto; align:center; border-radius: 5%;">
   <h1 style="font-size: 3em; padding: 10px;">
     Sonia C.
   </h1>
