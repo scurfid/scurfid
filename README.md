@@ -1,15 +1,14 @@
-<table>
-  <tr>
-    <td align="center">
-      <img src="assets/img/japan.jpg" alt="Sonia C" style="border-radius: 10%; width: 150px;">
-      <h2>Hola, soy Sonia C 👋</h2>
-      <p>
-        ¡Bienvenida/o a mi perfil de GitHub! Soy desarrolladora con experiencia en <strong>programación backend y frontend</strong>, y además tengo el privilegio de ser <strong>profesora de Formación Profesional en Informática</strong>. Me apasiona compartir conocimientos y aprender constantemente en este mundo tan dinámico de la tecnología.
-      </p>
-    </td>
-  </tr>
-</table>
-
+<div style="position: relative; text-align: center; color: white; margin-bottom: 15px;">
+  <img src="assets/img/japan.jpg" alt="Sonia C" style="width: 100%; height: auto;">
+  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 3em; background-color: rgba(0, 0, 0, 0.5); padding: 10px; border-radius: 10px;">
+    Sonia C.
+  </h1>
+</div>
+<hr>
+<p align="center">
+  ¡Bienvenida/o a mi perfil de GitHub! Soy desarrolladora con experiencia en <strong>programación backend y frontend</strong>, y además tengo el privilegio de ser <strong>profesora de Formación Profesional en Informática</strong>. Me apasiona compartir conocimientos y aprender constantemente en este mundo tan dinámico de la tecnología.
+</p>
+<hr>
 ### Top Skills:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Groovy](https://img.shields.io/badge/Groovy-%2300ADD8.svg?style=for-the-badge&logo=apache-groovy&logoColor=white)
