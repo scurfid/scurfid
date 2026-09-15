@@ -8,6 +8,8 @@
   ¡Bienvenida/o a mi perfil de GitHub! Soy desarrolladora con experiencia en <strong>programación backend y frontend</strong>, y además tengo el privilegio de ser <strong>profesora de Formación Profesional en Informática</strong>. Me apasiona compartir conocimientos y aprender constantemente en este mundo tan dinámico de la tecnología.
 </p>
 
+### Sonia Curiel
+
 ### Top Skills:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Groovy](https://img.shields.io/badge/Groovy-%2300ADD8.svg?style=for-the-badge&logo=apache-groovy&logoColor=white)
