@@ -10,8 +10,6 @@
 
 ![Logo github](assets/img/github_logo.jpg)
 
-![Snake](https://readme-arcade.vercel.app/api/snake?user=yourname)
-
 <!-- 3D Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
